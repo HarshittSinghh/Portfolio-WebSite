@@ -1,2 +1,12 @@
-## Portfolio WebSite
- Dynamic portfolio website showcasing my projects, skills, and experiences. Sleek design with smooth navigation, highlighting my expertise in web development. Interactive elements, such as project galleries and contact forms, engage visitors. Mobile-responsive layout ensures optimal viewing across devices. Reflects professionalism and creativity.
+# Build a Portfolio
+I have build a responsive website that will display images. links and description.
+This is my first portfolio project.
+
+# Files Included
+
+* index.html
+* main.css in css folder
+* Gruntfile.js
+* img folder
+* dist folder
+* package.json
